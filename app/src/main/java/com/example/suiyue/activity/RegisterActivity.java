@@ -1,8 +1,8 @@
 package com.example.suiyue.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
+import com.example.suiyue.R;
 
 public class RegisterActivity extends AppCompatActivity {
 
