@@ -11,6 +11,8 @@
     <color name="colorPrimaryDark">#303F9F</color><!--首要颜色暗色-->
     <color name="colorAccent">#FF4081</color><!--色彩强调-->
     <color name="snow">#fffafa</color><!--雪白色 -->
+    <color name="lightskyblue">#87cefa</color><!--亮天蓝色 -->
+
     <color name="floralwhite">#fffaf0</color><!--花白色 -->
     <color name="blanchedalmond">#ffebcd</color><!--杏白色 -->
     <color name="ghostwhite">#f8f8ff</color><!--幽灵白 -->
@@ -121,7 +123,7 @@
     <color name="azure">#f0ffff</color><!--天蓝色 -->
     <color name="skyblue">#87ceeb</color><!--天蓝色 -->
     <color name="deepskyblue">#00bfff</color><!--深天蓝色 -->
-    <color name="lightskyblue">#87cefa</color><!--亮天蓝色 -->
+
     <color name="lightseagreen">#20b2aa</color><!--亮海蓝色 -->
     <color name="lightblue">#add8e6</color><!--亮蓝色 -->
     <color name="powderblue">#b0e0e6</color><!--粉蓝色 -->
