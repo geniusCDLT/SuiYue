@@ -11,6 +11,8 @@
     <color name="colorPrimaryDark">#303F9F</color><!--首要颜色暗色-->
     <color name="colorAccent">#FF4081</color><!--色彩强调-->
     <color name="snow">#fffafa</color><!--雪白色 -->
+    <color name="cornflowerblue">#6495ed</color><!--菊兰色 -->
+
     <color name="lightskyblue">#87cefa</color><!--亮天蓝色 -->
 
     <color name="floralwhite">#fffaf0</color><!--花白色 -->
@@ -134,7 +136,6 @@
     <color name="mediumseagreen">#3cb371</color><!--中海蓝 -->
     <color name="steelblue">#4682b4</color><!--钢兰色 -->
     <color name="lightsteelblue">#b0c4de</color><!--亮钢兰色 -->
-    <color name="cornflowerblue">#6495ed</color><!--菊兰色 -->
     <color name="dodgerblue">#1e90ff</color><!--闪兰色 -->
     <color name="cadetblue">#5f9ea0</color><!--军兰色 -->
     <color name="blueviolet">#8a2be2</color><!--紫罗兰蓝色 -->
